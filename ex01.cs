@@ -24,7 +24,7 @@ while (idade != 0){
     {
         C++;
     }
-    else if (idade >= 60)
+    else if (idade <= 60)
     {
         D++;
     }else
